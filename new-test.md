@@ -1,1 +1,3 @@
-new-test update
+#new-test update
+
+*Trying MD file commands
